@@ -64,12 +64,6 @@ Execute: runserver.py
 
 After executing it, it'll be running on port 5000.
 
-Demo
-----
-
-See a demo at: http://trebuchet.wmflabs.org (authentication support disabled
-there).
-
 Getting Help
 ------------
 
